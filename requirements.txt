@@ -10,4 +10,4 @@ google-auth-oauthlib>=1.0.0
 PyPDF2>=3.0.0
 python-docx>=0.8.11
 
-https://1drv.ms/x/c/152200DFA03804E1/EeEEOKDfACIggBWwAAAAAAABIRaTWYGeOsfhC97LW8aDWw?e=GbSyjV
+
