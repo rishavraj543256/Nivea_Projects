@@ -1,6 +1,8 @@
 # TNBT Excel Automation Suite
 
 A powerful automation tool for Excel workflows, developed for The Next Big Thing (TNBT).
+![image](https://github.com/user-attachments/assets/e66c2277-7ca7-4d26-976a-0171450be80e)
+
 
 ## Features
 
